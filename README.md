@@ -109,7 +109,7 @@
 - 💼 **Портфолио:** [your-portfolio.com]()
 - 📧 **Email:** vuefanov@yandex.ru
 - 💬 **Telegram:** @yourusername
-- 🔗 **GitHub:** [your-username](https://github.com/ladimirEfanov)
+- 🔗 **GitHub:** [your-username](https://github.com/VladimirEfanov)
 
 ---
 
