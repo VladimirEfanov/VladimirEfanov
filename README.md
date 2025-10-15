@@ -107,9 +107,9 @@
 ## 📞 Контакты
 
 - 💼 **Портфолио:** [your-portfolio.com]()
-- 📧 **Email:** your.email@example.com
+- 📧 **Email:** vuefanov@yandex.ru
 - 💬 **Telegram:** @yourusername
-- 🔗 **GitHub:** [your-username](https://github.com/your-username)
+- 🔗 **GitHub:** [your-username](https://github.com/ladimirEfanov)
 
 ---
 
