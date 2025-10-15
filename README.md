@@ -59,7 +59,7 @@
 
 **💻 Веб-разработка:**
 - [HTML-верстка](./certificates/html-layout.pdf)
-- [Работа веб-приложений](./certificates/Работа%20веб-приложений.pdf)
+- [Работа веб-приложений](./certificates/web-applications-work.pdf)
 - [Основы PHP](./certificates/PHP.pdf)
 - [Git - система контроля версий](./certificates/git-version-control.pdf)
 
