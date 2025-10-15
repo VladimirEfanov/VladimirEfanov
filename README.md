@@ -55,7 +55,7 @@
 - [Bitrix-разработчик](./certificates/bitrix-developer.pdf)
 - [Создание динамического контента](./certificates/bitrix-dynamic-content.pdf)
 - [Установка и настройка Bitrix](./certificates/bitrix-installation.pdf)
-- [Управление заказами в Bitrix](./certificates/BITRIX_управление%20заказами.pdf)
+- [Управление заказами в Bitrix](./certificates/bitrix-order-system.pdf)
 
 **💻 Веб-разработка:**
 - [HTML-верстка](./certificates/html-layout.pdf)
