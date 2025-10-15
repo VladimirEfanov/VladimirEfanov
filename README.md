@@ -51,7 +51,7 @@
 
 ## 📜 Подтвержденные навыки
 
-- **[Bitrix-разработчик](./certificates/bitrix-developer.pdf)**
+- **[Bitrix-разработчик](./certificates/BITRIX_разработчик.pdf)**
 - **[HTML-верстка](./certificates/html-verstka.jpg)**
 - **[Работа веб-приложений](./certificates/web-applications.pdf)**
 - **[Дизайн-макеты](./certificates/design-samples/)** (можно добавить примеры дизайна)
