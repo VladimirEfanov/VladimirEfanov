@@ -141,8 +141,3 @@
 </p>
 
 ---
-
-<!-- Простая линия -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808t61d3ce23832e2t000t4e7083c91919/github-contribution-grid-snake.svg" alt="snake" />
-</p>
