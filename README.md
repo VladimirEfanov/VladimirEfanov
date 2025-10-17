@@ -142,6 +142,7 @@
 
 ---
 
+<!-- Простая линия -->
 <p align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808t61d3ce23832e2t000t4e7083c91919/github-contribution-grid-snake.svg" alt="snake" />
 </p>
