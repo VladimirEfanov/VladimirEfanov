@@ -13,7 +13,7 @@
 
 ## 🚀 Обо мне
 
-```php
+
 <?php
 
 class VladimirEfanov extends Developer {
@@ -62,9 +62,7 @@ class VladimirEfanov extends Developer {
 <img src="https://skillicons.dev/icons?i=wordpress" />
 <img src="https://skillicons.dev/icons?i=postman" />
 
-**Frontend & UI/UX**
-<img src="https://skillicons.dev/icons?i=html,css,js,jquery,figma,ps" />
-<img src="https://skillicons.dev/icons?i=react,vue" />
+<p> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" /> </p>
 
 **Инструменты & Системы**
 <img src="https://skillicons.dev/icons?i=git,github,vscode,bash" />
