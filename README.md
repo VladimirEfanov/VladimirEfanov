@@ -1,4 +1,3 @@
-# [Ваше Имя]
 ### Full-stack разработчик • Создатель сайтов под ключ
 
 Создаю сайты под ключ: от дизайна до реализации. Специализируюсь на лендингах, интернет-магазинах и корпоративных сайтах на 1С-Битрикс.
@@ -26,23 +25,19 @@
 
 ## 🛠️ Технологический стек
 
-**Backend & CMS**
-- 1С-Битрикс (разработчик)
-- PHP, MySQL
-- REST API
-- WordPress, OpenCart
-
-**Frontend & UI/UX**
-- HTML5, CSS3, JavaScript
-- Адаптивная верстка
-- jQuery
-- Figma, Photoshop
-
-**Инструменты**
-- Git, GitHub
-- Postman
-- Jira, DevTools
-
+<p align="left">
+<img src="https://img.shields.io/badge/Bitrix-Expert-orange?style=for-the-badge&logo=bitrix" alt="Bitrix"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+</p>
 ---
 
 ## 📜 Сертификаты
