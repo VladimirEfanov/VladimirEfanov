@@ -73,6 +73,7 @@
 
 **Веб-разработка:**
 - [HTML-верстка](./certificates/html-layout.pdf)
+- [Разработка сайта_управление адресами](./certificates/.jpg)
 - [Работа веб-приложений](./certificates/web-applications-work.pdf)
 - [Основы PHP](./certificates/PHP.pdf)
 - [Git - система контроля версий](./certificates/git-version-control.pdf)
