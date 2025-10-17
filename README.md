@@ -112,8 +112,9 @@
     <img src="https://img.shields.io/badge/Telegram-@jonssonv-0077B5?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
-<p align="right" style="display: inline-block; vertical-align: middle;"><img src="https://komarev.com/ghpvc/?username=VladimirEfanov&label=Profile%20views&color=0e75b6&style=flat" alt="VladimirEfanov" />
+<p align="center" style="display: inline-block; vertical-align: center;"><img src="https://komarev.com/ghpvc/?username=VladimirEfanov&label=Profile%20views&color=0e75b6&style=flat" alt="VladimirEfanov" />
 </p>
+
 ---
 
 
