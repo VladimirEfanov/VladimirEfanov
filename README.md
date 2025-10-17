@@ -36,8 +36,9 @@
 <img src="https://skillicons.dev/icons?i=react,vue" />
 
 **Инструменты & Системы**
-<img src="https://skillicons.dev/icons?i=git,github,jira,chrome,bash" />
-<img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,bash" />
+<img src="https://cdn.simpleicons.org/jira/0052CC" width="40" height="40" />
+<img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="40" height="40" />
 
 ---
 
