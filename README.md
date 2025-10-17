@@ -13,7 +13,10 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=VladimirEfanov&label=Profile%20views&color=0e75b6&style=flat" alt="VladimirEfanov" />
 </p>
-
+<a href="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true">
+       <img height=150 src="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/romankh3/github-readme-stats">
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=romankh3&layout=compact"/></a>
 ---
 
 ## 🚀 Обо мне
