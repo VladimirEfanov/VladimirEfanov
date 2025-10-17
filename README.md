@@ -2,21 +2,16 @@
 <h3 align="center">Full-stack разработчик • Специалист по 1С-Битрикс</h3>
 
 <p align="center">
-  
-<picture>  
-  <img src="https://github-readme-stats.vercel.app/api?username=VladimirEfanov&show_icons=true" />
-</picture>
-
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3F7&center=true&vCenter=true&width=435&lines=Full-stack+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA;1%D0%A1-%D0%91%D0%B8%D1%82%D1%80%D0%B8%D0%BA%D1%81+%D1%8D%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D1%82;E-commerce+%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D1%8F" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=VladimirEfanov&label=Profile%20views&color=0e75b6&style=flat" alt="VladimirEfanov" />
 </p>
-<a href="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true">
-       <img height=150 src="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true"/></a>
+<a href="https://github-readme-stats.vercel.app/api?username=VladimirEfanov&show_icons=true&count_private=true">
+       <img height=150 src="https://github-readme-stats.vercel.app/api?username=VladimirEfanov&show_icons=true&count_private=true"/></a>
    <a href="https://github.com/romankh3/github-readme-stats">
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=romankh3&layout=compact"/></a>
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladimirEfanov&layout=compact"/></a>
 ---
 
 ## 🚀 Обо мне
