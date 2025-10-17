@@ -139,3 +139,37 @@
 </p>
 
 ---
+# Владимир Ефанов  
+### <span style="color:#2E86AB">Веб-разработчик (1С-Битрикс)</span>
+
+<span style="color:#5C6B73">Создаю сайты и интернет-магазины на 1С-Битрикс. Полный цикл разработки.</span>
+
+---
+
+## <span style="color:#2E86AB">🛠 Технологии</span>
+
+**<span style="color:#A23B72">Backend:</span>**  
+1С-Битрикс · PHP · MySQL · WordPress · OpenCart
+
+**<span style="color:#F18F01">Frontend:</span>**  
+HTML · CSS · JavaScript · jQuery · React
+
+**<span style="color:#3F7CAC">Инструменты:</span>**  
+Git · VS Code · Photoshop · Figma
+
+---
+
+## <span style="color:#2E86AB">💼 Проекты</span>
+
+**<span style="color:#A23B72">GO & RIDE</span>** - интернет-магазин велосипедов  
+[<span style="color:#3F7CAC">Демо</span>](https://u179268.test-handyhost.ru/)
+
+**<span style="color:#F18F01">OISHI</span>** - лендинг чайной компании  
+[<span style="color:#3F7CAC">Сайт</span>](https://opt.oishigroup.ru/)
+
+---
+
+## <span style="color:#2E86AB">📞 Контакты</span>
+
+<span style="color:#A23B72">📧</span> vuefanov@yandex.ru  
+<span style="color:#F18F01">🔗</span> [GitHub](https://github.com/VladimirEfanov)
