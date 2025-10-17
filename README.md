@@ -58,7 +58,7 @@
 **Frontend Development**  
 - `HTML5` • `CSS3` • `Адаптивная верстка`
 - `JavaScript ES6+` • `jQuery`
-- `Bitrix-интеграция` фронтенд компонентов
+- `Bitrix-интеграция фронтенд компонентов` 
 
 **Development Tools**
 - `Git/GitHub` • `Командная строка (Bash)`
