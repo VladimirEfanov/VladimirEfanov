@@ -44,18 +44,18 @@
 
 ## 💻 Практические навыки
 
-**Backend Development**
+**Backend**
 - `PHP 7/8` • `ООП` • `PSR standards`
 - `Bitrix Framework` • `Bitrix D7` • `REST API`
 - `MySQL` • `PostgreSQL` • `Базы данных`
 - `JSON/XML` • `API интеграции`
 
-**Frontend Development**  
+**Frontend**  
 - `HTML5` • `CSS3` • `Адаптивная верстка`
 - `JavaScript ES6+` • `jQuery`
 - `Bitrix-интеграция фронтенд компонентов` 
 
-**Development Tools**
+**Tools**
 - `Git/GitHub` • `Командная строка (Bash)`
 - `Postman` • `DevTools` • `VS Code`
 - `Jira` • `Тестирование` • `Документирование кода`
