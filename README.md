@@ -56,7 +56,7 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="25" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="25" />
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" height="25" />
-<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=illustrator&logoColor=white" height="25" />
+<img src="https://img.shields.io/badge/AI-FF9A00?style=for-the-badge&logo=AI&logoColor=white" height="25" />
 
 **Инструменты & Системы**
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25" />
