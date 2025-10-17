@@ -132,7 +132,7 @@
 
 <p align="center">
   <a href="mailto:vuefanov@yandex.ru">
-    <img src="https://img.shields.io/badge/Email-vuefanov@yandex.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-vuefanov@yandex.ru-D14836?style=for-the-badge&logo=gmail&logoColor=green" />
   </a>
   <a href="https://github.com/VladimirEfanov">
     <img src="https://img.shields.io/badge/GitHub-VladimirEfanov-181717?style=for-the-badge&logo=github&logoColor=white" />
