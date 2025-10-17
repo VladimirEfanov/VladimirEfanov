@@ -25,29 +25,17 @@
 
 ## 🛠️ Технологический стек
 
-## 🛠️ Технологический стек
-
 **Backend & CMS**
 <img src="https://www.ph4.ru/icons4/1c_bitrix_256.png" width="40" height="40" />
-<img src="https://cdn.simpleicons.org/php/777BB4" width="40" height="40" />
-<img src="https://cdn.simpleicons.org/mysql/4479A1" width="40" height="40" />
-<img src="https://cdn.simpleicons.org/postgresql/4169E1" width="40" height="40" />
-<img src="https://cdn.simpleicons.org/wordpress/21759B" width="40" height="40" />
-<img src="https://cdn.simpleicons.org/opencart/2D6EAB" width="40" height="40" />
+<img src="https://cdn.simpleicons.org/bitrix/525C86" width="40" height="40" />
+<img src="https://skillicons.dev/icons?i=php,mysql,postgresql,wordpress" />
 
 **Frontend & UI/UX**
-<img src="https://cdn.simpleicons.org/html5/E34F26" width="40" height="40" />
-<img src="https://cdn.simpleicons.org/css3/1572B6" width="40" height="40" />
-<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" height="40" />
-<img src="https://cdn.simpleicons.org/jquery/0769AD" width="40" height="40" />
-<img src="https://cdn.simpleicons.org/figma/F24E1E" width="40" height="40" />
-<img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" width="40" height="40" />
+<img src="https://skillicons.dev/icons?i=html,css,js,jquery,figma,ps" />
 
 **Инструменты**
-<img src="https://cdn.simpleicons.org/git/F05032" width="40" height="40" />
-<img src="https://cdn.simpleicons.org/github/181717" width="40" height="40" />
-<img src="https://cdn.simpleicons.org/jira/0052CC" width="40" height="40" />
-<img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="40" height="40" />
+<img src="https://skillicons.dev/icons?i=git,github,jira,chrome" />
+
 ---
 
 ## 📜 Сертификаты
