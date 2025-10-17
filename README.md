@@ -77,16 +77,16 @@
 - `PHP 7/8` • `ООП` • `PSR standards`
 - `Bitrix Framework` • `Bitrix D7` • `REST API`
 - `MySQL` • `PostgreSQL` • `Базы данных`
-- `Bitrix JSREST` • `JSON/XML` • `API интеграции`
+- `JSON/XML` • `API интеграции`
 
 **Frontend Development**  
 - `HTML5` • `CSS3` • `Адаптивная верстка`
-- `JavaScript ES6+` • `jQuery` • `React/Vue.js`
+- `JavaScript ES6+` • `jQuery`
 - `Bitrix-интеграция` фронтенд компонентов
 
 **Development Tools**
 - `Git/GitHub` • `Командная строка (Bash)`
-- `Postman` • `Chrome DevTools` • `VS Code`
+- `Postman` • `DevTools` • `VS Code`
 - `Jira` • `Тестирование` • `Документирование кода`
 
 ---
