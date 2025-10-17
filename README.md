@@ -65,9 +65,6 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="25" />
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" height="25" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="25" />
-<img src="https://img.shields.io/badge/PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white" height="25" />
-<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" height="25" />
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" height="25" />
 
 ---
 
@@ -139,37 +136,4 @@
 </p>
 
 ---
-# Владимир Ефанов  
-### <span style="color:#2E86AB">Веб-разработчик (1С-Битрикс)</span>
 
-<span style="color:#5C6B73">Создаю сайты и интернет-магазины на 1С-Битрикс. Полный цикл разработки.</span>
-
----
-
-## <span style="color:#2E86AB">🛠 Технологии</span>
-
-**<span style="color:#A23B72">Backend:</span>**  
-1С-Битрикс · PHP · MySQL · WordPress · OpenCart
-
-**<span style="color:#F18F01">Frontend:</span>**  
-HTML · CSS · JavaScript · jQuery · React
-
-**<span style="color:#3F7CAC">Инструменты:</span>**  
-Git · VS Code · Photoshop · Figma
-
----
-
-## <span style="color:#2E86AB">💼 Проекты</span>
-
-**<span style="color:#A23B72">GO & RIDE</span>** - интернет-магазин велосипедов  
-[<span style="color:#3F7CAC">Демо</span>](https://u179268.test-handyhost.ru/)
-
-**<span style="color:#F18F01">OISHI</span>** - лендинг чайной компании  
-[<span style="color:#3F7CAC">Сайт</span>](https://opt.oishigroup.ru/)
-
----
-
-## <span style="color:#2E86AB">📞 Контакты</span>
-
-<span style="color:#A23B72">📧</span> vuefanov@yandex.ru  
-<span style="color:#F18F01">🔗</span> [GitHub](https://github.com/VladimirEfanov)
