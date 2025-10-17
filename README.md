@@ -26,13 +26,15 @@
 ## 🛠️ Технологический стек
 
 **Backend & CMS**
-<img src="https://skillicons.dev/icons?i=bitrix,php,mysql,postgresql,wordpress,opencart" />
+<img src="https://cdn.simpleicons.org/bitrix/525C86" width="40" height="40" />
+<img src="https://skillicons.dev/icons?i=php,mysql,postgresql,wordpress" />
 
 **Frontend & UI/UX**
 <img src="https://skillicons.dev/icons?i=html,css,js,jquery,figma,ps" />
 
 **Инструменты**
 <img src="https://skillicons.dev/icons?i=git,github,jira,chrome" />
+
 ---
 
 ## 📜 Сертификаты
