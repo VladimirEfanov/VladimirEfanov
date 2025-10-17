@@ -130,7 +130,7 @@
   <a href="mailto:vuefanov@yandex.ru">
     <img src="https://img.shields.io/badge/Email-vuefanov@yandex.ru-0077B5?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://t.me/your_telegram">
+  <a href="https://t.me/jonssonv">
     <img src="https://img.shields.io/badge/Telegram-@jonssonv-0077B5?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
