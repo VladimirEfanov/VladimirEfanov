@@ -13,7 +13,7 @@
 
 ## 🚀 Обо мне
 
-```php
+
 <?php
 
 class VladimirEfanov extends Developer {
@@ -146,7 +146,7 @@ SEO-базовая настройка
 
 📞 Контакты
 <p align="center"> <a href="mailto:vuefanov@yandex.ru"> <img src="https://img.shields.io/badge/Email-vuefanov@yandex.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/VladimirEfanov"> <img src="https://img.shields.io/badge/GitHub-VladimirEfanov-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
-<p align="center"> <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /> </p> ```
+<p align="center"> <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /> </p>
 
 ---
 
