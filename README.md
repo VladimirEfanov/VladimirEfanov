@@ -27,6 +27,7 @@
 
 **Backend & CMS**
 <img src="https://cdn.simpleicons.org/bitrix/525C86" width="40" height="40" />
+<img src="https://img.shields.io/badge/Bitrix-525C86?style=for-the-badge&logo=bitrix&logoColor=white" />
 <img src="https://skillicons.dev/icons?i=php,mysql,postgresql,wordpress" />
 
 **Frontend & UI/UX**
