@@ -134,6 +134,9 @@
     <img src="https://img.shields.io/badge/GitHub-VladimirEfanov-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+## <span style="color:#2563eb">📞 Контакты</span>
 
+<span style="color:#1d4ed8">📧</span> vuefanov@yandex.ru  
+<span style="color:#1d4ed8">🔗</span> [GitHub](https://github.com/VladimirEfanov)
 ---
 
