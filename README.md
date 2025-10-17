@@ -37,7 +37,7 @@
 
 ---
 
-## Технологический стек
+## Технический стек
 
 **Backend & CMS**
 <img src="https://img.shields.io/badge/1C_Bitrix-525C86?style=for-the-badge&logo=bitrix&logoColor=white" height="25" />
