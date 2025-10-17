@@ -130,43 +130,11 @@
 
 ## 📞 Контакты
 <p align="center">
-
-  <!-- Синие оттенки -->
-<img src="https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=gmail&logoColor=white" />
-<img src="https://img.shields.io/badge/Email-1E88E5?style=for-the-badge&logo=gmail&logoColor=white" />
-<img src="https://img.shields.io/badge/Email-1565C0?style=for-the-badge&logo=gmail&logoColor=white" />
-
-<!-- Красные оттенки -->
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-<img src="https://img.shields.io/badge/Email-C71610?style=for-the-badge&logo=gmail&logoColor=white" />
-<img src="https://img.shields.io/badge/Email-B31212?style=for-the-badge&logo=gmail&logoColor=white" />
-
-<!-- Фиолетовые оттенки -->
-<img src="https://img.shields.io/badge/Email-7B1FA2?style=for-the-badge&logo=gmail&logoColor=white" />
-<img src="https://img.shields.io/badge/Email-6A1B9A?style=for-the-badge&logo=gmail&logoColor=white" />
-
-<!-- Зеленые оттенки -->
-<img src="https://img.shields.io/badge/Email-388E3C?style=for-the-badge&logo=gmail&logoColor=white" />
-<img src="https://img.shields.io/badge/Email-2E7D32?style=for-the-badge&logo=gmail&logoColor=white" />
   <!-- Современный синий -->
   <a href="mailto:vuefanov@yandex.ru">
     <img src="https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  
-  <!-- Темно-серый для GitHub -->
-  <a href="https://github.com/VladimirEfanov">
-    <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-  <!-- Фиолетовый для Telegram -->
-  <a href="https://t.me/your_telegram">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-</p>
-<p align="center">
-  <a href="mailto:vuefanov@yandex.ru">
-    <img src="https://img.shields.io/badge/Email-vuefanov@yandex.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+ 
   <a href="https://github.com/VladimirEfanov">
     <img src="https://img.shields.io/badge/GitHub-VladimirEfanov-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
