@@ -26,8 +26,7 @@
 ## 🛠️ Технологический стек
 
 **Backend & CMS**
-<img src="https://www.ph4.ru/icons4/1c_bitrix_256.png" width="40" height="40" />
-<img src="https://cdn.simpleicons.org/bitrix/525C86" width="40" height="40" />
+<img src="https://www.ph4.ru/DL/LOGO_ICON/_/_1c_betrix.gif" width="40" height="40" />
 <img src="https://skillicons.dev/icons?i=php,mysql,postgresql,wordpress" />
 
 **Frontend & UI/UX**
