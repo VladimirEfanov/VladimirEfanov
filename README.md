@@ -131,12 +131,9 @@
     <img src="https://img.shields.io/badge/Email-vuefanov@yandex.ru-0077B5?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/VladimirEfanov">
-    <img src="https://img.shields.io/badge/GitHub-VladimirEfanov-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-VladimirEfanov-0077B5?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-## <span style="color:#2563eb">📞 Контакты</span>
 
-<span style="color:#1d4ed8">📧</span> vuefanov@yandex.ru  
-<span style="color:#1d4ed8">🔗</span> [GitHub](https://github.com/VladimirEfanov)
 ---
 
