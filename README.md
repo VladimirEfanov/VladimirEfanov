@@ -16,7 +16,6 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="25" />
 <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" height="25" />
 <img src="https://img.shields.io/badge/OpenCart-2D6EAB?style=for-the-badge&logo=opencart&logoColor=white" height="25" />
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height="25" />
 
 **Frontend & UI/UX**
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25" />
