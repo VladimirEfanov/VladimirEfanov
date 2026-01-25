@@ -1,3 +1,4 @@
+[![Russian version](https://img.shields.io/badge/Russian-Version-blue.svg)](./README.md)
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=Bitrix+Developer;E-commerce+Solutions;Full-stack+Development;Application+Testing" alt="Typing SVG" />
 </p>
@@ -102,4 +103,4 @@ I specialize in developing, customizing, and maintaining websites, landing pages
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=VladimirEfanov&label=Profile%20views&color=0e75b6&style=flat" alt="VladimirEfanov" /></p>
 
-[🇷🇺 Switch to Russian version](../main/README.md)
+[![Russian version](https://img.shields.io/badge/Russian-Version-blue.svg)](./README.md)
