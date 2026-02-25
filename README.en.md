@@ -2,10 +2,18 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=Bitrix+Developer;E-commerce+Solutions;Full-stack+Development;Application+Testing" alt="Typing SVG" />
 </p>
+<p align="center">
+  <b>🖥️ Need help with PC repair, assembly, or networks? Just ask!</b>
+</p>
 
 ## 👤👋 About Me
 
 I specialize in developing, customizing, and maintaining websites, landing pages, and e-commerce stores on various platforms, including 1C-Bitrix (Bitrix Developer). I have professional training in web development and testing.
+
+## 🔥 Important!
+
+In addition to web development, I also offer **computer repair, assembly, and network setup services**.  
+If you need help with hardware or local infrastructure — feel free to reach out, I'll help quickly and efficiently!
 
 ---
 
