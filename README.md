@@ -99,41 +99,41 @@
 ### 🍺 Urban Brew Coffee 🔗 [**Смотреть сайт**](https://gotweb.ru/urbanbrew/)
 Атмосферный лендинг для кофейни. Дизайн, верстка, интеграция карт и формы бронирования.
 
-<a href="https://github.com/VladimirEfanov/VladimirEfanov/blob/main/assets/urbanbrew.png?raw=true" title="Увеличить фото">
-  <img src="https://github.com/VladimirEfanov/VladimirEfanov/blob/main/assets/urbanbrew.png?raw=true" alt="Urban Brew" height="100" />
+<a href="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/urbanbrew.png" title="Увеличить">
+  <img src="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/urbanbrew.png" alt="Urban Brew" height="100" />
 </a>
-<a href="https://github.com/VladimirEfanov/VladimirEfanov/blob/main/assets/urbanbrew1.png?raw=true" title="Увеличить фото">
-  <img src="https://github.com/VladimirEfanov/VladimirEfanov/blob/main/assets/urbanbrew1.png?raw=true" alt="Urban Brew" height="100" width="60" />
+<a href="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/urbanbrew1.png" title="Увеличить">
+  <img src="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/urbanbrew1.png" alt="Urban Brew" height="100" width="60" />
 </a>
 
 ### 🏋️ FitPro 🔗 [**Смотреть сайт**](https://gotweb.ru/fitpro/)
 Сайт персонального тренера с таблицей расписания, карточками программ и формой записи.
 
-<a href="https://github.com/VladimirEfanov/VladimirEfanov/blob/main/assets/fitpro.png?raw=true" title="Увеличить фото">
-  <img src="https://github.com/VladimirEfanov/VladimirEfanov/blob/main/assets/fitpro.png?raw=true" alt="FitPro" height="100" />
+<a href="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/fitpro.png" title="Увеличить">
+  <img src="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/fitpro.png" alt="FitPro" height="100" />
 </a>
-<a href="https://github.com/VladimirEfanov/VladimirEfanov/blob/main/assets/fitpro1.png?raw=true" title="Увеличить фото">
-  <img src="https://github.com/VladimirEfanov/VladimirEfanov/blob/main/assets/fitpro1.png?raw=true" alt="FitPro" height="100" width="60" />
+<a href="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/fitpro1.png" title="Увеличить">
+  <img src="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/fitpro1.png" alt="FitPro" height="100" width="60" />
 </a>
 
 ### 🌐 WebFlow Agency 🔗 [**Смотреть сайт**](https://gotweb.ru/webflow/)
 Многостраничный сайт для digital-агентства с портфолио и списком услуг.
 
-<a href="https://github.com/VladimirEfanov/VladimirEfanov/blob/main/assets/webflow.png?raw=true" title="Увеличить фото">
-  <img src="https://github.com/VladimirEfanov/VladimirEfanov/blob/main/assets/webflow.png?raw=true" alt="WebFlow Agency" height="100" />
+<a href="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/webflow.png" title="Увеличить">
+  <img src="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/webflow.png" alt="WebFlow Agency" height="100" />
 </a>
-<a href="https://github.com/VladimirEfanov/VladimirEfanov/blob/main/assets/webflow1.png?raw=true" title="Увеличить фото">
-  <img src="https://github.com/VladimirEfanov/VladimirEfanov/blob/main/assets/webflow1.png?raw=true" alt="WebFlow Agency" height="100" width="60" />
+<a href="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/webflow1.png" title="Увеличить">
+  <img src="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/webflow1.png" alt="WebFlow Agency" height="100" width="60" />
 </a>
 
 ### 🎓 Учебный проект 🔗 [**Смотреть на CodePen**](https://codepen.io/npjjtgvi-the-solid/pen/WNBXLNq)
 Верстка блога по макету. Чистый HTML/CSS, адаптивность.
 
-<a href="https://github.com/VladimirEfanov/VladimirEfanov/blob/main/assets/noemi.png?raw=true" title="Увеличить фото">
-  <img src="https://github.com/VladimirEfanov/VladimirEfanov/blob/main/assets/noemi.png?raw=true" alt="Главная страница" height="100" />
+<a href="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/noemi.png" title="Увеличить">
+  <img src="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/noemi.png" alt="Главная страница" height="100" />
 </a>
-<a href="https://github.com/VladimirEfanov/VladimirEfanov/blob/main/assets/noemi1.png?raw=true" title="Увеличить фото">
-  <img src="https://github.com/VladimirEfanov/VladimirEfanov/blob/main/assets/noemi1.png?raw=true" alt="Мобильная версия" height="100" width="60" />
+<a href="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/noemi1.png" title="Увеличить">
+  <img src="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/noemi1.png" alt="Мобильная версия" height="100" width="60" />
 </a>
 
 ### 🎯 Лендинг "OISHI Group" [**Смотреть сайт**](https://oishigroup.ru/)
