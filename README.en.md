@@ -90,7 +90,7 @@ If you need help with hardware or local infrastructure — feel free to reach ou
 
 ## 💼 Projects
 
-### 🛍️ E-commerce Store (project) on BITRIX "GO & RIDE" 🔗 [**View site**](https://go-ride.gotweb.ru//)
+### E-commerce Store (project) on BITRIX "GO & RIDE" 🔗 [**View site**](https://go-ride.gotweb.ru//)
 - Custom order management system
 - Integration with 1C and online payment
 - Responsive design for all devices
@@ -102,7 +102,7 @@ If you need help with hardware or local infrastructure — feel free to reach ou
   <img src="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/go-ride1.png" alt="GO & RIDE" height="100" width="60" />
 </a>  
 
-### 🍺 Urban Brew Coffee 🔗 [**View site**](https://gotweb.ru/urbanbrew/)
+### Urban Brew Coffee 🔗 [**View site**](https://gotweb.ru/urbanbrew/)
 Atmospheric landing page for a coffee shop. Design, layout, map integration, and booking form.
 
 <a href="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/urbanbrew.png" title="Enlarge">
@@ -112,7 +112,7 @@ Atmospheric landing page for a coffee shop. Design, layout, map integration, and
   <img src="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/urbanbrew1.png" alt="Urban Brew" height="100" width="60" />
 </a>
 
-### 🏋️ FitPro 🔗 [**View site**](https://gotweb.ru/fitpro/)
+### FitPro 🔗 [**View site**](https://gotweb.ru/fitpro/)
 Personal trainer website with schedule table, program cards, and booking form.
 
 <a href="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/fitpro.png" title="Enlarge">
@@ -122,7 +122,7 @@ Personal trainer website with schedule table, program cards, and booking form.
   <img src="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/fitpro1.png" alt="FitPro" height="100" width="60" />
 </a>
 
-### 🌐 WebFlow Agency 🔗 [**View site**](https://gotweb.ru/webflow/)
+### WebFlow Agency 🔗 [**View site**](https://gotweb.ru/webflow/)
 Multi-page website for a digital agency with portfolio and services list.
 
 <a href="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/webflow.png" title="Enlarge">
@@ -132,7 +132,7 @@ Multi-page website for a digital agency with portfolio and services list.
   <img src="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/webflow1.png" alt="WebFlow Agency" height="100" width="60" />
 </a>
 
-### 🎓 Educational Project 🔗 [**View on CodePen**](https://codepen.io/npjjtgvi-the-solid/pen/WNBXLNq)
+### Educational Project 🔗 [**View on CodePen**](https://codepen.io/npjjtgvi-the-solid/pen/WNBXLNq)
 Blog layout based on a design. Pure HTML/CSS, responsive.
 
 <a href="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/noemi.png" title="Enlarge">
@@ -142,7 +142,7 @@ Blog layout based on a design. Pure HTML/CSS, responsive.
   <img src="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/noemi1.png" alt="Mobile version" height="100" width="60" />
 </a>
 
-### 🎯 Landing Page "OISHI Group" 🔗 [**View site**](https://oishigroup.ru/)
+### Landing Page "OISHI Group" 🔗 [**View site**](https://oishigroup.ru/)
 - Loading speed optimization
 - Basic SEO setup
 - **Result:** 23% conversion with 10k+ traffic
@@ -154,7 +154,7 @@ Blog layout based on a design. Pure HTML/CSS, responsive.
   <img src="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/oishi1.png" alt="OISHI Group" height="100" width="60" />
 </a>  
 
-### ⚡ Electricity Cost Calculator 
+### Electricity Cost Calculator 
 Interactive calculator for electricity cost calculation. Power selection, tariff choice, real-time calculation, history, synchronization.
 
 <a href="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/calc.png" title="Enlarge">
