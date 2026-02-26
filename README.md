@@ -90,7 +90,7 @@
 
 ## 💼 Проекты
 
-### 🛍️ Интернет-магазин (проект) на BITRIX "GO & RIDE" 🔗 [**Демо**](https://gotweb.ru/urbanbrew/)
+### Интернет-магазин (проект) на BITRIX "GO & RIDE" 🔗 [**Демо**](https://gotweb.ru/urbanbrew/)
 - Кастомная система управления заказами
 - Интеграция с 1С и онлайн-оплатой
 - Адаптивный дизайн для всех устройств
@@ -102,7 +102,7 @@
   <img src="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/go-ride1.png" alt="Urban Brew" height="100" width="60" />
 </a>
 
-### 🍺 Urban Brew Coffee 🔗 [**Демо**](https://gotweb.ru/urbanbrew/)
+### Urban Brew Coffee 🔗 [**Демо**](https://gotweb.ru/urbanbrew/)
 Атмосферный лендинг для кофейни. Дизайн, верстка, интеграция карт и формы бронирования.
 
 <a href="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/urbanbrew.png" title="Увеличить">
@@ -112,7 +112,7 @@
   <img src="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/urbanbrew1.png" alt="Urban Brew" height="100" width="60" />
 </a>
 
-### 🏋️ FitPro 🔗 [**Демо**](https://gotweb.ru/fitpro/)
+### FitPro 🔗 [**Демо**](https://gotweb.ru/fitpro/)
 Сайт персонального тренера с таблицей расписания, карточками программ и формой записи.
 
 <a href="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/fitpro.png" title="Увеличить">
@@ -122,7 +122,7 @@
   <img src="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/fitpro1.png" alt="FitPro" height="100" width="60" />
 </a>
 
-### 🌐 WebFlow Agency 🔗 [**Демо**](https://gotweb.ru/webflow/)
+### WebFlow Agency 🔗 [**Демо**](https://gotweb.ru/webflow/)
 Многостраничный сайт для digital-агентства с портфолио и списком услуг.
 
 <a href="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/webflow.png" title="Увеличить">
@@ -132,7 +132,7 @@
   <img src="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/webflow1.png" alt="WebFlow Agency" height="100" width="60" />
 </a>
 
-### 🎓 Учебный проект 🔗 [**Демо**](https://codepen.io/npjjtgvi-the-solid/pen/WNBXLNq)
+### Учебный проект 🔗 [**Демо**](https://codepen.io/npjjtgvi-the-solid/pen/WNBXLNq)
 Верстка блога по макету. Чистый HTML/CSS, адаптивность.
 
 <a href="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/noemi.png" title="Увеличить">
@@ -142,7 +142,7 @@
   <img src="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/noemi1.png" alt="Мобильная версия" height="100" width="60" />
 </a>
 
-### 🎯 Лендинг "OISHI Group" 🔗 [**Демо**](https://oishigroup.ru/)
+### Лендинг "OISHI Group" 🔗 [**Демо**](https://oishigroup.ru/)
 - Оптимизация скорости загрузки
 - SEO-базовая настройка
 - **Результат:** Конверсия 23% при 10k+ трафика
@@ -152,6 +152,16 @@
 </a>
 <a href="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/oishi1.png" title="Увеличить">
   <img src="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/oishi1.png" alt="Мобильная версия" height="100" width="60" />
+</a>
+
+### Калькулятор электроэнергии 
+Интерактивный калькулятор для расчета стоимости электроэнергии. Выбор мощности, тарифа, расчет в реальном времени, история, синхронизация.
+
+<a href="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/calc.png" title="Увеличить">
+  <img src="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/calc.png" alt="Главная страница" height="100" />
+</a>
+<a href="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/calc1.png" title="Увеличить">
+  <img src="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/calc1.png" alt="Мобильная версия" height="100" width="60" />
 </a>
 
 ---
