@@ -169,11 +169,23 @@ Blog layout based on a design. Pure HTML/CSS, responsive.
 ### Electricity Cost Calculator 🔗 [**View site**](https://calc.gotweb.ru/)
 Interactive calculator for electricity cost calculation. Power selection, tariff choice, real-time calculation, history, synchronization.
 
-<a href="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/calc.png" title="Enlarge">
-  <img src="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/calc.png" alt="Electricity Calculator" height="100" />
-</a>
 <a href="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/calc1.png" title="Enlarge">
-  <img src="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/calc1.png" alt="Electricity Calculator" height="100" width="60" />
+  <img src="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/calc1.png" alt="Main page" height="100" />
+</a>
+<a href="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/calc2.png" title="Enlarge">
+  <img src="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/calc2.png" alt="Mobile version" height="100" width="160" />
+</a>
+<a href="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/calc4.png" title="Enlarge">
+  <img src="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/calc4.png" alt="Mobile version" height="100" width="160" />
+</a>
+<a href="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/calc5.png" title="Enlarge">
+  <img src="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/calc5.png" alt="Mobile version" height="100" width="160" />
+</a>
+<a href="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/calc6.png" title="Enlarge">
+  <img src="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/calc6.png" alt="Mobile version" height="100" width="60" />
+</a>
+<a href="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/calc7.png" title="Enlarge">
+  <img src="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/calc7.png" alt="Mobile version" height="100" width="160" />
 </a>
 
 ---
