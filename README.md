@@ -166,11 +166,23 @@
 ### Калькулятор электроэнергии 🔗[**Демо**](https://calc.gotweb.ru/)
 Интерактивный калькулятор для расчета стоимости электроэнергии. Выбор мощности, тарифа, расчет в реальном времени, история, синхронизация.
 
-<a href="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/calc.png" title="Увеличить">
-  <img src="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/calc.png" alt="Главная страница" height="100" />
-</a>
 <a href="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/calc1.png" title="Увеличить">
-  <img src="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/calc1.png" alt="Мобильная версия" height="100" width="60" />
+  <img src="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/calc1.png" alt="Главная страница" height="100" />
+</a>
+<a href="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/calc2.png" title="Увеличить">
+  <img src="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/calc2.png" alt="Мобильная версия" height="100" width="160" />
+</a>
+<a href="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/calc4.png" title="Увеличить">
+  <img src="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/calc4.png" alt="Мобильная версия" height="100" width="160" />
+</a>
+<a href="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/calc5.png" title="Увеличить">
+  <img src="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/calc5.png" alt="Мобильная версия" height="100" width="160" />
+</a>
+<a href="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/calc6.png" title="Увеличить">
+  <img src="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/calc6.png" alt="Мобильная версия" height="100" width="60" />
+</a>
+<a href="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/calc7.png" title="Увеличить">
+  <img src="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/calc7.png" alt="Мобильная версия" height="100" width="160" />
 </a>
 
 ---
