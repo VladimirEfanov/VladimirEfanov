@@ -8,7 +8,19 @@
 
 ## 👤👋 About Me
 
-I specialize in developing, customizing, and maintaining websites, landing pages, and e-commerce stores on various platforms, including 1C-Bitrix (Bitrix Developer). I have professional training in web development and testing.
+**Specializing in the development, customization, and maintenance of websites, landing pages, and e-commerce stores across various platforms, including 1C-Bitrix (Bitrix developer).**  
+Completed professional training in web development and testing.
+
+**Develop and configure Telegram bots with payment integration:**
+
+- **Payments:** YooKassa (cards, SBP, SberPay, T-Pay, YooMoney)
+- **Integrations:** Google Drive, Telegram API, third-party services
+- **Deployment:** VPS (Ubuntu), Nginx, SSL
+
+📌 **Example:** Electricity cost calculator with automatic access activation after payment [calc.gotweb.ru](https://calc.gotweb.ru/)  
+🤖 Payment bot: [@ElectricityCalcBot](https://t.me/ElectricityCalcBot)
+
+**For development inquiries:** [@jonssonv](https://t.me/jonssonv)
 
 ## 🔥 Important!
 
@@ -154,7 +166,7 @@ Blog layout based on a design. Pure HTML/CSS, responsive.
   <img src="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/oishi1.png" alt="OISHI Group" height="100" width="60" />
 </a>  
 
-### Electricity Cost Calculator 
+### Electricity Cost Calculator 🔗 [**View site**](https://calc.gotweb.ru/)
 Interactive calculator for electricity cost calculation. Power selection, tariff choice, real-time calculation, history, synchronization.
 
 <a href="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/calc.png" title="Enlarge">
@@ -163,6 +175,7 @@ Interactive calculator for electricity cost calculation. Power selection, tariff
 <a href="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/calc1.png" title="Enlarge">
   <img src="https://github.com/VladimirEfanov/VladimirEfanov/raw/main/assets/calc1.png" alt="Electricity Calculator" height="100" width="60" />
 </a>
+
 ---
 
 ## 📞 Contacts
